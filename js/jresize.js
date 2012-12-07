@@ -5,7 +5,7 @@
 
 	Responsive development plugin for resizing the content within one window
 */
-(function ($) {
+;(function ($) {
 
     $.jResize = function (options) {
     
